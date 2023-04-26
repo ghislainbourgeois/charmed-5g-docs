@@ -5,6 +5,8 @@
 Starter pack
 ============
 
+Charmed 5G is a ready for operation open source 5G network - based on the Open Networking Fundation project.
+
 **A single sentence that says what the product is, succinctly and memorably.**
 consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua.
